@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/YernarSmagulov_ReactPortfolio/static/css/main.64206eaf.css",
-    "main.js": "/YernarSmagulov_ReactPortfolio/static/js/main.1416f8eb.js",
+    "main.js": "/YernarSmagulov_ReactPortfolio/static/js/main.d86a37f9.js",
     "static/media/me.png": "/YernarSmagulov_ReactPortfolio/static/media/me.7d3a64acb5f4680d715e.png",
     "static/media/me-about.jpg": "/YernarSmagulov_ReactPortfolio/static/media/me-about.8bc776b5e2cad92da423.jpg",
     "static/media/Yernar_Smagulov_Resume.pdf": "/YernarSmagulov_ReactPortfolio/static/media/Yernar_Smagulov_Resume.5419cda67753b0bd6261.pdf",
@@ -9,10 +9,10 @@
     "static/media/portfolio1.jpg": "/YernarSmagulov_ReactPortfolio/static/media/portfolio1.6147d5e3e6501b5723ab.jpg",
     "index.html": "/YernarSmagulov_ReactPortfolio/index.html",
     "main.64206eaf.css.map": "/YernarSmagulov_ReactPortfolio/static/css/main.64206eaf.css.map",
-    "main.1416f8eb.js.map": "/YernarSmagulov_ReactPortfolio/static/js/main.1416f8eb.js.map"
+    "main.d86a37f9.js.map": "/YernarSmagulov_ReactPortfolio/static/js/main.d86a37f9.js.map"
   },
   "entrypoints": [
     "static/css/main.64206eaf.css",
-    "static/js/main.1416f8eb.js"
+    "static/js/main.d86a37f9.js"
   ]
 }
