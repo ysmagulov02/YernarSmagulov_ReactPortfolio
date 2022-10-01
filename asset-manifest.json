@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/YernarSmagulov_ReactPortfolio/static/css/main.64206eaf.css",
-    "main.js": "/YernarSmagulov_ReactPortfolio/static/js/main.df91f798.js",
+    "main.js": "/YernarSmagulov_ReactPortfolio/static/js/main.082a6473.js",
+    "static/media/me.png": "/YernarSmagulov_ReactPortfolio/static/media/me.7d3a64acb5f4680d715e.png",
     "static/media/cv.pdf": "/YernarSmagulov_ReactPortfolio/static/media/cv.1676dcdc83730930d888.pdf",
-    "static/media/me.png": "/YernarSmagulov_ReactPortfolio/static/media/me.821ecddcb9953b46bf75.png",
-    "static/media/me-about.jpg": "/YernarSmagulov_ReactPortfolio/static/media/me-about.fb4452e7f286d3636ef9.jpg",
-    "static/media/portfolio2.jpg": "/YernarSmagulov_ReactPortfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio1.jpg": "/YernarSmagulov_ReactPortfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/me-about.jpg": "/YernarSmagulov_ReactPortfolio/static/media/me-about.8bc776b5e2cad92da423.jpg",
+    "static/media/portfolio2.jpg": "/YernarSmagulov_ReactPortfolio/static/media/portfolio2.718535ac348eaaef5b90.jpg",
+    "static/media/portfolio1.jpg": "/YernarSmagulov_ReactPortfolio/static/media/portfolio1.6147d5e3e6501b5723ab.jpg",
     "index.html": "/YernarSmagulov_ReactPortfolio/index.html",
     "main.64206eaf.css.map": "/YernarSmagulov_ReactPortfolio/static/css/main.64206eaf.css.map",
-    "main.df91f798.js.map": "/YernarSmagulov_ReactPortfolio/static/js/main.df91f798.js.map"
+    "main.082a6473.js.map": "/YernarSmagulov_ReactPortfolio/static/js/main.082a6473.js.map"
   },
   "entrypoints": [
     "static/css/main.64206eaf.css",
-    "static/js/main.df91f798.js"
+    "static/js/main.082a6473.js"
   ]
 }
